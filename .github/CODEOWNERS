@@ -1,0 +1,21 @@
+# This is an example of a CODEOWNERS file
+
+# Each line is a file pattern followed by one or more code owners.
+
+# Code owners will be automatically notified when someone opens a pull request that modifies any files that match the pattern.
+
+# More details can be found at: https://help.github.com/articles/about-code-owners/
+
+# Examples:
+
+# To specify @oriolcanadesin2 as the code owner for the entire repository, you can use the '*' pattern:
+*       @oriolcanadesin2
+
+# You can also specify code owners for specific directories or files:
+# /path/to/directory/       @oriolcanadesin2
+# /path/to/file.ext         @oriolcanadesin2
+
+# Additionally, you can have multiple code owners for a section of the code:
+# /another/path/            @oriolcanadesin2 @anotherUser
+
+# Note: Only members of the organization, external members, or teams can be code owners.
